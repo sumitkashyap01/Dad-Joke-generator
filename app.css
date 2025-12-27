@@ -16,7 +16,7 @@ body {
   align-items: center;
 
   background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
-    url("images/avatar.jpg");
+    url("avatar.jpg");
 
   background-size: cover;
   background-position: center 25%;
@@ -101,3 +101,4 @@ button:hover {
     text-align: center;
   }
 }
+
